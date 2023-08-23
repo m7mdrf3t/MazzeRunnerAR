@@ -1,2 +1,0 @@
-# MazzeRunnerAR
-AR GAme
